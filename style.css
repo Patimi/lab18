@@ -1,0 +1,19 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(img/jaclyn-.jpg);
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(img/terry-.jpg);
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+
+  background-image: url(img/unsplash.jpg);
+}
+.container {
+  height: 100vh;
+}
